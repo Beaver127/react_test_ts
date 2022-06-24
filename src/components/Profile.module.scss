@@ -1,0 +1,35 @@
+.title {
+  font-size: 24px;
+  text-align: center;
+}
+.search {
+  border: 1px solid #000;
+  background-color: transparent;
+  width: 300px;
+  height: 30px;
+  display: block;
+  margin: 0 auto 20px auto;
+  padding: 0 20px;
+  line-height: 30px;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  max-width: 80%;
+  margin: 0 auto 10px auto;
+img {
+  width: 60px;
+  max-width: 60px;
+  height: 60px;
+  display: inline-block;
+  background-color: rebeccapurple;
+  border-radius: 50%;
+}
+}
+.login {
+  font-size: 16px;
+}
+.count {
+  font-size: 16px;
+}
